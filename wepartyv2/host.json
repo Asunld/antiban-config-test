@@ -157,5 +157,8 @@
       "doh_min_version": 9999,
       "doh_bootstrap_ips": {}
     }
+  ],
+  "next_config_urls": [
+    "https://cdn.jsdelivr.net/gh/wenext-limited/config@main/wepartyv2/host.json"
   ]
 }
