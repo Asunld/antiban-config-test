@@ -102,5 +102,8 @@
         "web.fungo.chat": "web.wenext-fungo.chat"
       }
     }
+  ],
+  "next_config_urls": [
+    "https://cdn.jsdelivr.net/gh/wenext-limited/config@main/fungov2/host.json"
   ]
 }
