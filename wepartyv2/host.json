@@ -1,7 +1,6 @@
 {
   "replace": {
-    "weparty.wenext.cloud": "weparty-cf.wenext.cloud",
-    "ff.ll": "dd.mm"
+    "weparty.wenext.cloud": "weparty-cf.wenext.cloud"
   },
   "hosts": [
     {
