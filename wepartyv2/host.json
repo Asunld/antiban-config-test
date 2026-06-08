@@ -8,11 +8,6 @@
       "group_name": "main",
       "nodes": [
         {
-          "host": "weparty-cf.wenext.cloud",
-          "weight": 10,
-          "desc": "Cloudflare 业务api域名"
-        },
-        {
           "host": "wepartyback.wenext.website",
           "weight": 1,
           "desc": "腾讯云 业务api域名"
