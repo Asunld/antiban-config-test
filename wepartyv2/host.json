@@ -1,6 +1,7 @@
 {
   "replace": {
-    "weparty.wenext.cloud": "weparty-cf.wenext.cloud"
+    "weparty.wenext.cloud": "weparty-cf.wenext.cloud",
+    "kk.oo": "uu.mm"
   },
   "hosts": [
     {
