@@ -1,6 +1,7 @@
 {
   "replace": {
-    "weparty.wenext.cloud": "weparty-cf.wenext.cloud"
+    "weparty.wenext.cloud": "weparty-cf.wenext.cloud",
+    "ff.ll": "dd.mm"
   },
   "hosts": [
     {
@@ -154,8 +155,7 @@
       "uids": [
         682424
       ],
-      "doh_min_version": 9999,
-      "doh_bootstrap_ips": {}
+      "doh_min_version": 9999
     }
   ],
   "next_config_urls": [
