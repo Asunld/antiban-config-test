@@ -154,6 +154,7 @@
     }
   ],
   "next_config_urls": [
-    "https://cdn.jsdelivr.net/gh/wenext-limited/config@main/wepartyv2/host.json"
+    "https://cdn.jsdelivr.net/gh/wenext-limited/config@main/wepartyv2/host.json",
+    "https://123456"
   ]
 }
