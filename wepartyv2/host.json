@@ -148,9 +148,14 @@
   "user": [
     {
       "uids": [
-        682424
+        682424,
+        213123,
+        13123123
       ],
-      "doh_min_version": 9999
+      "doh_min_version": 9999,
+      "replace": {
+        "3213213": "213213123"
+      }
     }
   ],
   "next_config_urls": [
